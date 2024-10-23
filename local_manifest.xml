@@ -7,7 +7,7 @@
   <project name="zingrx/device_xiaomi_fuxi-kernel" path="device/xiaomi/fuxi-kernel" remote="github" revision="lineage-21" />
   
   <!-- Firmware -->
-  <project name="zingrx/vendor_xiaomi_fuxi-firmware" path="vendor/xiaomi/fufi-firmware" remote="github" revision="main" />
+  <project name="zingrx/vendor_xiaomi_fuxi-firmware" path="vendor/xiaomi/fuxi-firmware" remote="github" revision="main" />
   
   <!-- Vendor -->
   <project name="pixelos-pp/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="14.0" />
