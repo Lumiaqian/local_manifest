@@ -11,4 +11,6 @@
   
   <!-- Vendor -->
   <project name="pixelos-pp/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="14.0" />
+  <!-- Camera Vendor 项目 -->
+  <project name="xt0032rus/android_vendor_xiaomi_camera" path="vendor/xiaomi/camera" remote="github" revision="sm8550-leica" />
 </manifest>
