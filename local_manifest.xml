@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device 树 -->
+  <project name="zingrx/device_xiaomi_fuxi" path="device/xiaomi/fuxi" remote="github" revision="14-qpr3-matrixx" />
+  
+  <!-- Kernel 相关 -->
+  <project name="zingrx/device_xiaomi_fuxi-kernel" path="device/xiaomi/fuxi-kernel" remote="github" revision="lineage-21" />
+  
+  <!-- Firmware -->
+  <project name="zingrx/vendor_xiaomi_fuxi-firmware" path="vendor/xiaomi/fufi-firmware" remote="github" revision="main" />
+  
+  <!-- Vendor -->
+  <project name="pixelos-pp/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="14.0" />
+</manifest>
